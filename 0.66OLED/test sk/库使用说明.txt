@@ -1,0 +1,14 @@
+整个库文件解压后保持
+
+库文件夹xxx:
+example文件夹；
+src    文件夹；
+文件2.cpp；
+文件3.h；
+······
+
+的结构。
+并将整个文件放到arduino 安装目录下的libraries下；
+一般目录为D:\Program Files (x86)\Arduino\libraries
+
+重启Arduino IDE,可在file\example里打开相关历程，编译下载即可
